@@ -21,7 +21,7 @@ import com.microsoft.azure.storage.blob.SharedAccessBlobPolicy;
 /**
  * 
  * @author devan
- *
+ * Expecting cloud storage connection string as argument
  */
 public class BlobSASBasics {
 
